@@ -1,0 +1,11 @@
+Model Information:
+* title:	Marcopolo Torino VW17-230
+* source:	https://sketchfab.com/3d-models/marcopolo-torino-vw17-230-dbb5b344102a493185d748f1e9be9bf8
+* author:	FrankFkN (https://sketchfab.com/frankfkn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Marcopolo Torino VW17-230" (https://sketchfab.com/3d-models/marcopolo-torino-vw17-230-dbb5b344102a493185d748f1e9be9bf8) by FrankFkN (https://sketchfab.com/frankfkn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
